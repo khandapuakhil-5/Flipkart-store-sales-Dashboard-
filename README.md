@@ -28,6 +28,7 @@ Sales vs Rating Performance: Understands how customer satisfaction impacts sales
 Quantity Sold by Category: Identifies which product categories drive volume.
 
 Dashboard image Url: https://github.com/khandapuakhil-5/Flipkart-store-sales-Dashboard-/blob/main/Flip%20dashboard.png
-PowerBI Dashboard:https://github.com/khandapuakhil-5/Flipkart-store-sales-Dashboard-/blob/main/Flip_Sales_Dashboard%5B1%5D.pbix
+ 
+  PowerBI Dashboard:https://github.com/khandapuakhil-5/Flipkart-store-sales-Dashboard-/blob/main/Flip_Sales_Dashboard%5B1%5D.pbix
 
 
