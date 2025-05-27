@@ -25,5 +25,9 @@ Sales Breakdown by Region & Payment Method: Shows which payment types are most p
 
 Sales vs Rating Performance: Understands how customer satisfaction impacts sales
 
-Quantity Sold by Category: Identifies which product categories drive volume
+Quantity Sold by Category: Identifies which product categories drive volume.
+
+Dashboard image Url: https://github.com/khandapuakhil-5/Flipkart-store-sales-Dashboard-/blob/main/Flip%20dashboard.png
+PowerBI Dashboard:
+
 
