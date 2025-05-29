@@ -31,4 +31,6 @@ Dashboard image Url: https://github.com/khandapuakhil-5/Flipkart-store-sales-Das
  
   PowerBI Dashboard:https://github.com/khandapuakhil-5/Flipkart-store-sales-Dashboard-/blob/main/Flip_Sales_Dashboard%5B1%5D.pbix
 
+  Data set Url:https://github.com/khandapuakhil-5/Flipkart-store-sales-Dashboard-/blob/main/SuperStore%20Sales%20DataSet%20flip.xlsx
+
 
